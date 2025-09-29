@@ -445,7 +445,7 @@
         "\n",
         "See also [numpy.loadtxt](http://docs.scipy.org/doc/numpy/reference/generated/numpy.loadtxt.html). Use a text editor (you can do this in Spyder itself) to write several lines of data to a file. Then look at the following code snippets. Make sure you follow what they do.\n",
         "\n",
-        "Read data from the file [data.txt](https://raw.githubusercontent.com/PX2134/data/master/week1/data.txt) into an array y, and skip the first row.\n",
+        "Read  data from the file [data.txt](https://raw.githubusercontent.com/PX2134/data/master/week1/data.txt) into an array y, and skip the first row.\n",
         "**Note**: to upload the data to colab, either download onto your computer and right-click \"upload\" on the folder menu in the left-hand side bar, or run:\n",
         "```\n",
         "! wget <link to file>\n",
